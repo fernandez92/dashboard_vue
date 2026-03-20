@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Dashboard",
+  "description": "A high-performance, responsive dashboard built with Vue 3, TypeScript, and Chart.js, featuring a technical aesthetic and mock data integration.",
+  "requestFramePermissions": []
+}
